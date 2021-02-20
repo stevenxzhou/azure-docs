@@ -18,6 +18,10 @@ ms.subservice: B2C
 
 Page layout packages are periodically updated to include fixes and improvements in their page elements. The following change log specifies the changes introduced in each version.
 
+# Warning
+
+We will stop support following versions after XX/XX/XXXX date.
+
 ## Self-asserted page (selfasserted)
 
 **2.1.2**
